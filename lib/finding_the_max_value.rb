@@ -10,6 +10,7 @@ def find_max_value(array)
         temp = array[count]
       end
         counter +=1
+      end
     count +=1
   end
 end
